@@ -5,18 +5,19 @@ body {
 
 h1 {  
   color: darkblue;
+  font-size:24px;
   font-weight: bold;
 }
 
 h2 {
   color: black;
-  font-size:24px;
+  font-size:22px;
   font-weight: bold;
 
 }
 
 ul {
-  font-size:18px;
+  font-size:16px;
 }
 
 button {
