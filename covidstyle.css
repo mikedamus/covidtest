@@ -21,12 +21,12 @@ ul {
 }
 
 button {
-  width: 80px;
-  height: 40px;
+  width: 60px;
+  height: 30px;
   border-radius: 4px;
   border: 3px solid grey;
   background-color: white;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 p {
